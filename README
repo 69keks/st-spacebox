@@ -37,5 +37,5 @@ See the man page for additional details.
 ![Neovim](./assets/neovim.png)
 
 ©️ Credits
----------
+----------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
