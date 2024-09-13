@@ -5,16 +5,13 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/*static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";*/
-/*static char *font = "FiraCode Nerd Font:pixelsize=18:antialias=true:autohint=true";*/
 static char *font = "Dina TTF:pixelsize=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
 	"FiraCode Nerd Font:pixelsize=12:antialias=true:autohint=true", 
-	/*"Symbols Nerd Font:pixelsize=12:antialias=true:autohint=true", */
 };
 
-static int borderpx = 7;
+static int borderpx = 6;
 
 /*
  * What program is execed by st depends of these precedence rules:
