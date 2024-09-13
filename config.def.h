@@ -6,10 +6,12 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 /*static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";*/
+/*static char *font = "FiraCode Nerd Font:pixelsize=18:antialias=true:autohint=true";*/
 static char *font = "Dina TTF:pixelsize=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Symbols Nerd Font:pixelsize=12:antialias=true:autohint=true", 
+	"FiraCode Nerd Font:pixelsize=12:antialias=true:autohint=true", 
+	/*"Symbols Nerd Font:pixelsize=12:antialias=true:autohint=true", */
 };
 
 static int borderpx = 7;
