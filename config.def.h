@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Dina TTF:pixelsize=12:antialias=true:autohint=true";
+static char *font = "Dina TTF:pixelsize=13:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"FiraCode Nerd Font:pixelsize=12:antialias=true:autohint=true", 
+	"FiraCode Nerd Font:pixelsize=15:antialias=true:autohint=true", 
 };
 
 static int borderpx = 6;
